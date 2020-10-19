@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIM9qpLK47wS3zQRM+MN9+Df5zd9xkUCzRRsCHD3jKlOJOhyaMn/649/diUoWBy6ZeXEjvHL/TSfQk2gysbNZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stoya\\source\\repos\\practicaconsola\\practicaconsola\\practicaconsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stoya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

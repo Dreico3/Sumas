@@ -1,0 +1,13 @@
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.exe
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.deps.json
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.runtimeconfig.json
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.runtimeconfig.dev.json
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.dll
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\bin\Debug\netcoreapp3.1\practicaconsola.pdb
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.csprojAssemblyReference.cache
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.AssemblyInfoInputs.cache
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.AssemblyInfo.cs
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.dll
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.pdb
+C:\Users\Stoya\source\repos\practicaconsola\practicaconsola\obj\Debug\netcoreapp3.1\practicaconsola.genruntimeconfig.cache
